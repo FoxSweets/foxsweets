@@ -4,7 +4,7 @@
 #### Hola mi amigo, я backend-разработчик занимаюсь разработкой уже несколько лет и очень доволен собой, каждый день учусь и узнаю всё больше о программировании.
 
 ## GitHub Stats
-[![FoxSweets GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FoxSweets&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/FoxSweets/github-readme-stats#gh-light-mode-only)
+[![FoxSweets GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FoxSweets&show_icons=true&theme=dracula)](https://github.com/FoxSweets/github-readme-stats)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=0074be)
