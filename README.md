@@ -1,7 +1,10 @@
 [![Header](https://github.com/FoxSweets/foxsweets/blob/main/assets/profile.gif)](https://www.youtube.com/@FoxSweets)
 
 ## About me
-Hola mi amigo, я backend-разработчик занимаюсь разработкой уже несколько лет и очень доволен собой, каждый день учусь и узнаю всё больше о программировании.
+#### Hola mi amigo, я backend-разработчик занимаюсь разработкой уже несколько лет и очень доволен собой, каждый день учусь и узнаю всё больше о программировании.
+
+## GitHub Stats
+[![FoxSweets GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FoxSweets&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/FoxSweets/github-readme-stats#gh-light-mode-only)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=0074be)
